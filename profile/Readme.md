@@ -31,25 +31,21 @@
 
 **TKMM** manages many aspects of mod management, such as RESTBL calculation, overlapping files, changelogs and more, ensuring a streamlined process and reducing hassle when using mods.
 
-## Links
+## Help and Documentation
 
 - [Join our Discord community](https://discord.gg/BbVXenRFVc)
 - [Documentation](https://tkmm.org)
 
 ### Downloads
+
 - [Windows](https://tkmm.org/downloads/?tabs=windows) (x64/arm64)
 - [Linux](https://tkmm.org/downloads/?tabs=linux) (x64/arm64)
 - [macOS](https://tkmm.org/downloads/?tabs=macos) (Intel/Universal)
 
 ## The Team
 
-- **[Arch Leaders](https://github.com/ArchLeaders)**
-  - Lead Developer
-- **[Aster](https://github.com/AsteroidPizza39)**
-  - Co-Founder, Artist, & Operations Manager
-- **[The5thTear](https://github.com/The5thTear)**
-  - Co-Founder & Developer
-- **[Lord Bubbles](https://github.com/MasterBubbles)**
-  - Developer & GPT Master
-- **[Mikachan](https://github.com/okmika)**
-  - Developer
+- **[Arch Leaders](https://github.com/ArchLeaders)**: Lead Developer
+- **[Aster](https://github.com/AsteroidPizza39)**: Co-Founder, Artist, & Operations Manager
+- **[The5thTear](https://github.com/The5thTear)**: Co-Founder & Developer
+- **[Lord Bubbles](https://github.com/MasterBubbles)**: Developer & GPT Master
+- **[Mikachan](https://github.com/okmika)**: Developer
